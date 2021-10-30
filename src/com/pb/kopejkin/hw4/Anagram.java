@@ -1,4 +1,4 @@
-package com.pb.kopejkin;
+package com.pb.kopejkin.hw4;
 
 import java.util.Arrays;
 import java.util.Scanner;
